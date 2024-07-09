@@ -43,7 +43,7 @@ This package is free to use, but is not an official [salesforce.com](http://sale
 
 ## Community Menus App (Menus Manager component for App Builder)
 
-Access the Lightning App called “Community Menus” from the Lightning experience as an admin or a user who is given access to that app and underlying objects (ccnavmenus__Menu__c, ccnavmenus__Menu_Item__c). The home page of the app will run the Menus Manager component (menusManager), which uses an apex controller called “menusManagerController.cls”. Ensure that any user needing to run this functionality also has access to that apex class to be able to run the Menus Manager component.
+Access the Lightning App called “Experience Cloud Menus” from the Lightning experience as an admin or a user who is given access to that app and underlying objects (ccnavmenus__Menu__c, ccnavmenus__Menu_Item__c). The home page of the app will run the Menus Manager component (menusManager), which uses an apex controller called “menusManagerController.cls”. Ensure that any user needing to run this functionality also has access to that apex class to be able to run the Menus Manager component.
 
 ![image](https://user-images.githubusercontent.com/8514282/153256405-76d78f53-46ad-4ac7-ae96-4662c8a0a3ad.png)
 
